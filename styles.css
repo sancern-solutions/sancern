@@ -85,7 +85,7 @@ button { font: inherit; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 5.2rem;
+  min-height: 4.0rem;
   gap: 1rem;
 }
 .brand {
@@ -94,8 +94,8 @@ button { font: inherit; }
   gap: 0.9rem;
 }
 .brand-mark {
-  width: 2.8rem;
-  height: 2.8rem;
+  width: 129px;
+  height: 111x;
 }
 .brand-name {
   text-transform: uppercase;
@@ -122,6 +122,10 @@ button { font: inherit; }
 .primary-nav a:hover,
 .primary-nav a.active {
   color: var(--gold);
+}
+
+.primary-nav a.button {
+  color: #170d06;
 }
 
 .nav-toggle {
