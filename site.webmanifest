@@ -1,0 +1,15 @@
+{
+  "name": "Sancern Solutions",
+  "short_name": "Sancern",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080510",
+  "theme_color": "#12091f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

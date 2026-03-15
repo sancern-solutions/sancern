@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090510"/>
+  <rect x="30" y="30" width="1140" height="570" rx="32" fill="url(#g)" stroke="rgba(250,204,21,0.22)"/>
+  <circle cx="948" cy="126" r="180" fill="#FACC15" fill-opacity="0.08"/>
+  <circle cx="264" cy="136" r="220" fill="#8B5CF6" fill-opacity="0.12"/>
+  <path d="M162 398C303 242 438 205 592 313C735 413 906 475 1046 262" stroke="#FACC15" stroke-width="8" stroke-linecap="round"/>
+  <path d="M179 454C341 342 477 388 632 326C788 264 915 191 1037 222" stroke="white" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round"/>
+  <text x="90" y="218" fill="#FACC15" font-size="28" font-family="Inter, Arial, sans-serif" font-weight="800" letter-spacing="6">SANCERN SOLUTIONS</text>
+  <text x="90" y="300" fill="white" font-size="72" font-family="Inter, Arial, sans-serif" font-weight="900">Premium AI Software</text>
+  <text x="90" y="380" fill="#E9DFFF" font-size="36" font-family="Inter, Arial, sans-serif" font-weight="600">Built in Dallas, Texas, USA</text>
+  <defs>
+    <linearGradient id="g" x1="30" y1="30" x2="1170" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#190E2C"/>
+      <stop offset="0.5" stop-color="#10081C"/>
+      <stop offset="1" stop-color="#0A0614"/>
+    </linearGradient>
+  </defs>
+</svg>
